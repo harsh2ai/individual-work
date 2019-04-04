@@ -5,3 +5,5 @@
 * remotes 
 * fetch/push
 * branches 
+* minor updates
+* check out
